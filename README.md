@@ -4,7 +4,7 @@
 
 ## Sobre mí 🚀
 
-- **Intereses:** Mi principal interés es el estudio y análisis forense aplicando métodos estadísticos y herramientas informáticas 🔍. Me encanta resolver acertijos digitales 🔐 y descubrir evidencia en el mundo digital 🕵️.
+- **Intereses:** Mi principal interés es el estudio y análisis forense aplicando métodos estadísticos y herramientas informáticas 🔍.
 - **Habilidades:** Mis habilidades incluyen el dominio de análisis de datos 📊 y la aplicación de métodos estadísticos sobre datos para el control de calidad 📈, así como la recopilación de pruebas digitales 📂.
 - **Meta:** Mi objetivo es convertirme en un especialista en el campo de la Informática Forense 🌟.
 
