@@ -6,7 +6,7 @@
 
 - **Intereses:** Mi principal interés es el estudio y análisis forense aplicando métodos estadísticos y herramientas informáticas 🔍. Me encanta resolver acertijos digitales 🔐 y descubrir evidencia en el mundo digital 🕵️.
 - **Habilidades:** Mis habilidades incluyen el dominio de análisis de datos 📊 y la aplicación de métodos estadísticos sobre datos para el control de calidad 📈, así como la recopilación de pruebas digitales 📂.
-- **Meta:** Mi objetivo es convertirme en un especialista reconocido en el campo de la Informática Forense 🌟.
+- **Meta:** Mi objetivo es convertirme en un especialista en el campo de la Informática Forense 🌟.
 
 ## Contacto 📫
 - **GitHub:** [Perfil de GitHub](https://github.com/ShayBRJ)
