@@ -1,16 +1,16 @@
-### Hi there 👋
+# ¡Bienvenidos a mi perfil! 🎓
 
-<!--
-**ShayBRJ/ShayBRJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy Borja Medina Ramos, un estudiante apasionado por la Informática Forense 👨‍💻. Actualmente, me encuentro cursando Ingeniería Informática en la Universidad de La Laguna 🏫.
 
-Here are some ideas to get you started:
+## Sobre mí 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Intereses:** Mi principal interés es el estudio y análisis forense aplicando métodos estadísticos y herramientas informáticas 🔍. Me encanta resolver acertijos digitales 🔐 y descubrir evidencia en el mundo digital 🕵️.
+- **Habilidades:** Mis habilidades incluyen el dominio de análisis de datos 📊 y la aplicación de métodos estadísticos sobre datos para el control de calidad 📈, así como la recopilación de pruebas digitales 📂.
+- **Meta:** Mi objetivo es convertirme en un especialista reconocido en el campo de la Informática Forense 🌟.
+
+## Contacto 📫
+- **GitHub:** [Perfil de GitHub](https://github.com/ShayBRJ)
+
+¡No dudes en ponerte en contacto conmigo si tienes alguna pregunta o si deseas colaborar en algún proyecto! Estoy interesado en aprender y crecer en el campo de la ingeniería informática 💡.
+
+¡Gracias por visitar mi perfil! 👋
